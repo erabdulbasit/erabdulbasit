@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently working on building a web Scrapper application with Python + MERN Stack.<br>Exploring the world of Tech.<br>Ask me anything about Web Development, DSA.<br>Fun Facts : i have made this Snake Game with React https://snake-game-react-two.vercel.app/<br>I enjoy playing Cricket and watching science fiction movies.
+🚀 I am currently working on: Building a web scraper application with Python + MERN Stack.
+
+🌌 Exploring the world of Tech.
+
+💬 Ask me anything about: Web Development, DSA.
+
+🎮 Fun Facts: Just for fun i made this Snake Game with React!
+
+🏏 I enjoy: Playing Cricket and watching science fiction movies.
 
 
 ## 🌐 Socials:
